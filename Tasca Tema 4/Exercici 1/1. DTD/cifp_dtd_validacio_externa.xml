@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cifp SYSTEM "cifp_dtd_validacio_externa.dtd">
+
+<cifp>
+
+<alumne id="ecastelar">
+   <nom>Emilio</nom>
+   <llinatges>Castelar Orteu</llinatges>
+   <data_naixement>26/12/1996</data_naixement>
+   <correu>emiliocastelar@paucasesnovescifp.cat</correu>
+   <telefon>634098274</telefon>
+   <adreça>Carrer de Palma, 24</adreça>
+   <data_matricula>06/10/2025</data_matricula>
+   <curs>DAM</curs>
+</alumne>
+
+<professor id="professor1">
+   <nom>Walter</nom>
+   <llinatges>Aguilar</llinatges>
+   <data_naixement>08/10/1995</data_naixement>
+   <correu>walteraguilar@paucasesnovescifp.cat</correu>
+   <telefon>698645372</telefon>
+   <adreça>Carrer d'Inca, 37</adreça>
+   <data_incorporacio>06/10/2019</data_incorporacio>
+   <departament>Informàtica</departament>
+   
+   <assignatura id_assignatura="assignatura1" cicle="DAM">
+     <nom_assignatura>Programació</nom_assignatura>
+     <data_inici>06/10/2025</data_inici>
+     <data_final>20/06/2026</data_final>
+     </assignatura>
+     
+</professor>
+
+</cifp>
