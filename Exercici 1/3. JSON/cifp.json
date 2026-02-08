@@ -1,0 +1,38 @@
+{
+  "$schema": "./cifp_JSON_schema.json",
+  "alumne": [
+    {
+      "id": 1,
+      "nom": "Emilio",
+      "llinatges": "Castelar Orteu",
+      "data_naixement": "1996-12-26",
+      "correu": "emiliocastelar@paucasesnovescifp.cat",
+      "telefon": "634098274",
+      "adreça": "Carrer de Palma, 24",
+      "data_matricula": "2025-10-06",
+      "curs": "DAM"
+    }
+  ],
+  "professor": [
+    {
+      "id": 1,
+      "nom": "Walter",
+      "llinatges": "Aguilar",
+      "data_naixement": "1995-10-08",
+      "correu": "walteraguilar@paucasesnovescifp.cat",
+      "telefon": "698645372",
+      "adreça": "Carrer d'Inca, 37",
+      "data_incorporacio": "2019-10-06",
+      "departament": "Informàtica",
+      "assignatura": [
+        {
+          "id_assignatura": 1,
+          "cicle": "DAM",
+          "nom_assignatura": "Programació",
+          "data_inici": "2025-10-06",
+          "data_final": "2026-06-20"
+        }
+      ]
+    }
+  ]
+}
